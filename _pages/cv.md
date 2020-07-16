@@ -11,18 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D PHP, GitHub University, 1337 (Julian)
+* A.G.S. General Studies, Grand Rapids Community College, 2019
+* A.A. Pre-Mathematics, Grand Rapids Community College, 2019
+* A.S. Pre-Chemical Engineering, Grand Rapids Community College, 2020
+* B.A. Biochemistry, Minor Psychology, Ferris State University, 2021 (Expected)
+* B.S. Biology, Ferris State University, 2021 (Expected)
 
 Work experience
 ======
+* 2009 - 2020: Tutor
+* 2016 - 2020: Home Health Aide
 * 2020: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Ferris State University College of Pharmacy
+  * Duties included: Science
+* 2035: Earthican President (Expected)
   
 Skills
 ======
-* Bad YAML
+* Bad html
+* Worse YAML
+* Okay Java
+* C++ that technically compiles
+* I once used css
+* Mobile App Development
+* Can run an NMR, sorta
+* Making choropleth gifs, apparently
+* Accumulating College Credits
+* Not taking public-facing websites seriously enough
 
 Publications
 ======
