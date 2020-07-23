@@ -16,4 +16,11 @@ Here are more words
 
 Maybe even pretty pictures?
 ======
-![Example Picture](/images/Confirmed_Cases.gif)
+![Michigan Cases](/images/Michigan_Average_Cases.gif)
+Non-population-adjusted Seven Day Rolling Average New Cases, with max clamped to 10
+
+![Michigan Deaths](/images/Michigan_Average_Deaths.gif)
+Non-population-adjusted Seven Day Rolling Average New Deaths, with max clamped to 2.5
+
+![Flo-Rida](/images/Confirmed_Cases.gif)
+Florida doing what it does best: embarassing America in new and unexpected ways.
