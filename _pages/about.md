@@ -11,16 +11,9 @@ redirect_from:
 This is the front page of a website that is powered by the words.
 
 A data-driven-ish personal-ish website
+
 ======
-Here are more words
 
-Maybe even pretty pictures?
-======
-![Michigan Cases](/images/Michigan_Average_Cases.gif)
-Non-population-adjusted Seven Day Rolling Average New Cases, with max clamped to 10
+![Racial Disparity Data Analysis](/images/ratio_state.png)
 
-![Michigan Deaths](/images/Michigan_Average_Deaths.gif)
-Non-population-adjusted Seven Day Rolling Average New Deaths, with max clamped to 2.5
-
-![Flo-Rida](/images/Confirmed_Cases.gif)
-Florida doing what it does best: embarassing America in new and unexpected ways.
+[Click here for an exciting and depressing report on racial disparity in the COVID pandemic.](luekenm.github.io/COVID-19)
