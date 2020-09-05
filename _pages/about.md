@@ -10,4 +10,8 @@ redirect_from:
 
 ![Racial Disparity Data Analysis](/images/ratio_state.png)
 
-[Click here for an exciting and depressing report on racial disparity in the COVID pandemic.](COVID-19)
+[Click here for a report on racial disparity in the COVID pandemic.](COVID-19)
+
+![Florida and Michigan](/images/DailyCOVIDDeaths.png)
+
+[Click here to discover why you shouldn't go to Disney World.](FLMI)
